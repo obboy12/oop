@@ -1,8 +1,8 @@
 # LAPORAN HASIL PRAKTIKUM
 
-| Nama        | ob|
+| Nama        | Abdullah Husin|
 |----------------|------------|
-| NIM        | 090302823 |
+| NIM        | 09030582327103 |
 | Program Studi | Teknik Komputer |
 
 ## Judul Percobaan  
